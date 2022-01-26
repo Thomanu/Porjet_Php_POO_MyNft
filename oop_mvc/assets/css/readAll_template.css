@@ -1,0 +1,39 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/e2/3f/a6/e23fa65dcedeb00cc5f9ac4ca015699d.jpg);
+  color: rgb(255, 255, 255);
+}
+
+body>div>table {
+  background-color: rgba(0, 0, 0, .5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
+  border-radius: 25px;
+  text-decoration: none;
+  margin-top: 10%;
+
+}
+
+body>div>div>a {
+  background-color: black;
+  color: white;
+
+}
+
+body>div>table>tbody>tr>td>a {
+  color: white;
+}
+
+
+
+body>div>table {
+  border: none;
+}
+
+
+body>div>form {
+  padding-top: 7%;
+}
+
+body > div > div.right-button-margin > a {
+  margin-top: 7rem;
+}

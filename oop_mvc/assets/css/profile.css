@@ -1,0 +1,62 @@
+body {
+    color: rgb(0, 0, 0);
+    /* background-color: rgb(22, 19, 19); */
+    background-image: url(https://i.pinimg.com/originals/e2/3f/a6/e23fa65dcedeb00cc5f9ac4ca015699d.jpg);
+}
+
+body>div>section {
+    margin-top: 10%;
+
+
+}
+
+body>div>section>div>div.panel-body {
+    margin-right: 3.5rem;
+}
+
+body>div>section {
+    background-image: url(https://static.wixstatic.com/media/c0b902_105d091896cd46d381bcacda8f4e81aa~mv2.gif);
+
+}
+
+.panel {
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 10px 20px, rgba(0, 0, 0, 0.8) 0px 6px 6px;
+    border: none;
+}
+
+
+body>div>section>div>div.panel-heading>h2 {
+    color: white;
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-8>form>div:nth-child(1)>label {
+    color: white;
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-8>form>div:nth-child(2)>label {
+    color: white;
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-8>form>div:nth-child(3)>label {
+    color: white;
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-8>form>button {
+    background-color: black;
+    color: white;
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-8>form>a:nth-child(5) {
+    background-color: black;
+    color: white;
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-8>form>a:nth-child(6) {
+    background-color: black;
+    color: white;
+}
+
+body>div>section>div>div.panel-heading>h2>span>a {
+    background-color: black;
+    color: rgb(230, 224, 224);
+}

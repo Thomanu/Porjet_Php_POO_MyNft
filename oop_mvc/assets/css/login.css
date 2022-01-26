@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+  background-color: #111010;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-image: url(https://i.pinimg.com/originals/e2/3f/a6/e23fa65dcedeb00cc5f9ac4ca015699d.jpg);
+}
+
+body>div>section {
+  margin-top: 10%;
+  border-color: #060607;
+}
+
+.container {
+  width: 750px;
+}
+
+
+.panel {
+
+  border-color: black;
+
+  color: rgb(255, 255, 255);
+  position: absolute;
+
+  background: rgba(0, 0, 0, .5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
+  border-radius: 10px;
+
+  background-image: url(https://d1iczm3wxxz9zd.cloudfront.net/22ffe63f-f9ce-4a8b-96bd-15214036933a/000000-0000000000/65893738849063635844278425344235271617742173372341749098486950109155964698742/ITEM_PREVIEW1.gif);
+
+}
+
+
+body>div>section>div>div.panel-heading {
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+}
+
+body>div>section>div>div.panel-body {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5rem;
+  outline: none;
+  text-decoration: none;
+  color: white;
+
+}
+
+body>div>section>div>div.panel-body>div {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  outline: none;
+  text-decoration: none;
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-6>form>span {
+  display: flex;
+  justify-content: center;
+
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-6>form>button {
+  background-color: black;
+}
+
+body>div>section>div>div.panel-body>div>div.col-lg-6>form>span>a {
+  background-color: black;
+  color: white;
+}

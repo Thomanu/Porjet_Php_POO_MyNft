@@ -1,0 +1,12 @@
+Body {
+    background-image: url(https://i.pinimg.com/originals/e2/3f/a6/e23fa65dcedeb00cc5f9ac4ca015699d.jpg);
+}
+
+body>div>form {
+    margin-top: 15%;
+    background-color: transparent;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 10px 20px, rgba(0, 0, 0, 0.8) 0px 6px 6px;
+    border: none;
+
+}
