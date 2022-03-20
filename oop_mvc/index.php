@@ -1,10 +1,10 @@
 
 <?php
 
-$href = "../assets/css/show.css";
-include_once "header.php";
+$href = "assets/css/show.css";
+include_once "view/header.php";
 
-require_once '../controllers/home_controller.php';
+require_once 'controllers/home_controller.php';
 
 ?>
 
@@ -50,5 +50,5 @@ require_once '../controllers/home_controller.php';
       
 
       <?php
-    require_once "footer.php";
+    require_once "view/footer.php";
 	?>
